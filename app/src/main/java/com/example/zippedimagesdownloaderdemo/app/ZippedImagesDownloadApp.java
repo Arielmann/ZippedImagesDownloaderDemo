@@ -11,10 +11,5 @@ public class ZippedImagesDownloadApp extends Application {
     public void onCreate() {
         super.onCreate();
         APPLICATION_CONTEXT = getApplicationContext();
-        setupHilt();
     }
-
-    private void setupHilt() {
-    }
-
 }

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zipped Images Download Demo</string>
+    <string name="key_current_asset">key_current_asset</string>
+
+    <string name="error_no_file_found">Folder was unzipped but could not find an image within it</string>
+    <string name="error_bad_network_request">There was a problem with the network request</string>
+    <string name="error_null_server_response">Null response from server</string>
+    <string name="error_bad_response_parsing">Failure while parsing server response</string>
+    <string name="error_no_network_connection">Operation failed, Please make sure you have a network connection and try again</string>
+    <string name="error_msg_snapshot_network_fetching">There was an error handling the request</string>
+
+</resources>
